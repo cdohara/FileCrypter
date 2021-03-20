@@ -1,6 +1,6 @@
 # FileCrypter
 
-A simple way of password protecting your files.
+A simple way of password protecting your files using AES-GCM.
 
 ## Process
 
